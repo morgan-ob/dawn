@@ -1525,6 +1525,12 @@
             },
             "text": {
               "label": "說明"
+            },
+            "link_label": {
+              "label": "連結標籤"
+            },
+            "link": {
+              "label": "連結"
             }
           },
           "name": "欄"
